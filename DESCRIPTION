@@ -1,0 +1,12 @@
+Package: LXchord
+Type: Package
+Title: LXchord
+Version: 2023.01
+Author: Dr.Lin
+Maintainer: Dr.Lin <gluck4668@sina.com>
+Description: This R package can be used to draw the chord diagram.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
